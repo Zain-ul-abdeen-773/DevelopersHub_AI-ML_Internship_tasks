@@ -26,7 +26,7 @@ This repository contains my solutions to the officially assigned tasks as part o
 ## ✅ Completed Tasks
 
 - [x] Task 1 – Iris Dataset: EDA & Visualizations  
-- [ ] Task 2 – Stock Price Prediction  
+- [x] Task 2 – Stock Price Prediction  
 - [ ] Task 3 – Heart Disease Classifier  
 - [ ] Task 4 – Health Chatbot with LLM Prompts  
 - [ ] Task 5 – Empathetic Support Chatbot (Fine-Tuning)  
