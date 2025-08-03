@@ -27,10 +27,10 @@ This repository contains my solutions to the officially assigned tasks as part o
 
 - [x] Task 1 – Iris Dataset: EDA & Visualizations  
 - [x] Task 2 – Stock Price Prediction  
-- [ ] Task 3 – Heart Disease Classifier  
-- [ ] Task 4 – Health Chatbot with LLM Prompts  
-- [ ] Task 5 – Empathetic Support Chatbot (Fine-Tuning)  
-- [ ] Task 6 – House Price Prediction
+- [x] Task 3 – Heart Disease Classifier  
+- [x] Task 4 – Health Chatbot with LLM Prompts  
+- [x] Task 5 – Empathetic Support Chatbot (Fine-Tuning)  
+- [x] Task 6 – House Price Prediction
 
 > 📌 *You can check individual folders for detailed Jupyter Notebooks and their results.*
 
