@@ -1,25 +1,32 @@
 # 🚀 DevelopersHub_AI-ML_Internship_Tasks
 
-Welcome to my internship repository for the **AI/ML Engineering Internship at DevelopersHub Corporation**.  
-This repository contains my solutions to the officially assigned tasks as part of the internship.
+Welcome to my repository for the **AI/ML Engineering Internship at DevelopersHub Corporation**.  
+This repository contains my solutions to the officially assigned internship tasks.  
 
+---
 
-🗓 **Due Date**: August 14, 2025  
-✅ **Requirement**: Complete at least **3 out of 6** tasks  
-🆔 **Intern ID**: DHC-1204 – Submitted by Zain ul Abdeen as part of the DevelopersHub AI/ML Engineering Internship.
+## 🆔 Details
+- **Intern ID:** DHC-1204  
+- **Name:** Zain ul Abdeen  
+- 🎓 BS in Artificial Intelligence  
 
 ---
 
 ## 📁 Tasks Overview
 
-| Task No. | Title                                         | Category             | Core Skills |
-|----------|-----------------------------------------------|----------------------|-------------|
-| 1        | Exploring and Visualizing a Simple Dataset    | Data Exploration     | EDA, matplotlib, seaborn |
-| 2        | Predict Future Stock Prices (Short-Term)      | Time Series Forecast | Regression, yfinance, matplotlib |
-| 3        | Heart Disease Prediction                      | Classification       | Logistic Regression, ROC-AUC, EDA |
-| 4        | General Health Query Chatbot (Prompt-based)   | Prompt Engineering   | OpenAI API, Prompt Design |
-| 5        | Mental Health Support Chatbot (Fine-tuned)    | NLP & LLM Tuning     | Hugging Face, EmpatheticDialogues |
-| 6        | House Price Prediction                         | Regression           | Gradient Boosting, MAE, RMSE |
+| Task No. | Title                                                | Category                 | Core Skills |
+|----------|------------------------------------------------------|--------------------------|-------------|
+| 1        | Exploring and Visualizing a Simple Dataset           | Data Exploration         | EDA, matplotlib, seaborn |
+| 2        | Predict Future Stock Prices (Short-Term)             | Time Series Forecast     | Regression, yfinance, matplotlib |
+| 3        | Heart Disease Prediction                             | Classification           | Logistic Regression, ROC-AUC, EDA |
+| 4        | General Health Query Chatbot (Prompt-based)          | Prompt Engineering       | OpenAI API, Prompt Design |
+| 5        | Mental Health Support Chatbot (Fine-tuned)           | NLP & LLM Tuning         | Hugging Face, EmpatheticDialogues |
+| 6        | House Price Prediction                               | Regression               | Gradient Boosting, MAE, RMSE |
+| 7        | News Topic Classifier Using BERT                     | NLP & Transformers       | Hugging Face, Transformers, BERT |
+| 8        | End-to-End ML Pipeline with Scikit-learn             | ML Pipelines             | Scikit-learn, Pipelines, GridSearchCV |
+| 9        | Multimodal Housing Price Prediction (Images+Tabular) | Multimodal Learning      | CNNs, Feature Fusion, Regression |
+| 10       | Context-Aware Chatbot (LangChain/RAG)                | Conversational AI        | LangChain, RAG, Vector DB |
+| 11       | Auto Tagging Support Tickets Using LLM               | LLM Applications         | Prompt Engineering, Zero/Few-shot |
 
 ---
 
@@ -30,14 +37,13 @@ This repository contains my solutions to the officially assigned tasks as part o
 - [x] Task 3 – Heart Disease Classifier  
 - [x] Task 4 – Health Chatbot with LLM Prompts  
 - [x] Task 5 – Empathetic Support Chatbot (Fine-Tuning)  
-- [x] Task 6 – House Price Prediction
+- [x] Task 6 – House Price Prediction  
+- [x] Task 7 – AG News Topic Classifier (BERT)  
 
-> 📌 *You can check individual folders for detailed Jupyter Notebooks and their results.*
+📌 *Each completed task includes its own Jupyter Notebook, visualizations, and deployment files.*  
 
 ---
-
 ## 📂 Folder Structure
-
 ```
 DevelopersHub_AI-ML_Internship_Tasks/
 │
@@ -47,10 +53,14 @@ DevelopersHub_AI-ML_Internship_Tasks/
 ├── Task_4_Health_Chatbot/
 ├── Task_5_Mental_Health_Chatbot/
 ├── Task_6_House_Price_Prediction/
+├── Task_7_BERT_News_Classifier/
+├── Task_8_ML_Pipeline/
+├── Task_9_Multimodal_Housing/
+├── Task_10_Context_Aware_Chatbot/
+├── Task_11_Auto_Ticket_Tagger/
 │
 └── README.md ← You're here!
 ```
-
 
 ---
 
@@ -60,10 +70,15 @@ DevelopersHub_AI-ML_Internship_Tasks/
 - 📈 Regression & Classification Modeling  
 - 🤖 Prompt Engineering & Chatbot Design  
 - 🧠 Fine-Tuning LLMs for NLP Tasks  
-- 📦 Real-world Dataset Handling  
-- 📉 Evaluation Metrics (Accuracy, ROC, MAE, RMSE)
+- 📰 Transformer-based NLP with BERT  
+- 🏠 Multimodal Machine Learning (Images + Tabular Fusion)  
+- 🔗 LangChain and RAG for Conversational AI  
+- 📦 ML Pipelines with Scikit-learn  
+- 📉 Evaluation Metrics (Accuracy, ROC, F1, MAE, RMSE)  
+- 🚀 Deployment with Streamlit & Gradio  
 
 ---
+
 
 ## 🧠 Author
 
@@ -78,16 +93,20 @@ DevelopersHub_AI-ML_Internship_Tasks/
 ## 📜 License
 
 This repository is licensed under the [MIT License](LICENSE).  
-You may use the content for personal learning or educational purposes.
+Content may be used for personal learning or educational purposes.  
 
 ---
 
 ## 🙌 Acknowledgment
 
-Thanks to **DevelopersHub Corporation** for providing this valuable AI/ML internship opportunity.
+Thanks to **DevelopersHub Corporation** for providing this valuable AI/ML internship opportunity.  
 
 ---
 
 ## ⭐️ Show Support
 
-If this repo helps you, feel free to give it a ⭐️ and fork for your own learning journey!
+If this repo helps you, please ⭐️ it on GitHub and fork for your own learning journey!
+
+
+
+
