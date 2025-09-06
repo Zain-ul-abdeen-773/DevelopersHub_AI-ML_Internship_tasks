@@ -40,7 +40,8 @@ This repository contains my solutions to the officially assigned internship task
 - [x] Task 6 – House Price Prediction  
 - [x] Task 7 – AG News Topic Classifier (BERT)
 - [x] Task 8 _ End-to-End ML Pipeline with Scikit-learn(Breast cancer Classifier)
-- [x] Task 9 _  Multimodal Housing Price Prediction (Images+Tabular) 
+- [x] Task 9 _  Multimodal Housing Price Prediction (Images+Tabular)
+- [x] Task 10 _ Context-Aware Chatbot (LangChain/RAG)
 
 📌 *Each completed task includes its own Jupyter Notebook, visualizations, and deployment files.*  
 
@@ -59,7 +60,6 @@ DevelopersHub_AI-ML_Internship_Tasks/
 ├── Task_8_ML_Pipeline/
 ├── Task_9_Multimodal_Housing/
 ├── Task_10_Context_Aware_Chatbot/
-├── Task_11_Auto_Ticket_Tagger/
 │
 └── README.md ← You're here!
 ```
