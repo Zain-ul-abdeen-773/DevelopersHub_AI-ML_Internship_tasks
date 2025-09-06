@@ -1,0 +1,6 @@
+{
+  "persist_dir": "chroma_db",
+  "collection": "developershub_corpus",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "generator": "google/flan-t5-small"
+}
