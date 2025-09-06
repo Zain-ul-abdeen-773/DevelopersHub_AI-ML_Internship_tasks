@@ -39,7 +39,7 @@ This repository contains my solutions to the officially assigned internship task
 - [x] Task 5 – Empathetic Support Chatbot (Fine-Tuning)  
 - [x] Task 6 – House Price Prediction  
 - [x] Task 7 – AG News Topic Classifier (BERT)
-- [x] Task 8 — End-to-End ML Pipeline with Scikit-learn(Breast cancer Classifier)
+- [x] Task 8 _ End-to-End ML Pipeline with Scikit-learn(Breast cancer Classifier)
 - [x] Task 9 _  Multimodal Housing Price Prediction (Images+Tabular) 
 
 📌 *Each completed task includes its own Jupyter Notebook, visualizations, and deployment files.*  
